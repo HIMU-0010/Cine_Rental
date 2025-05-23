@@ -1,11 +1,3 @@
-## 📑 Table of Contents
-
-- [📥 Get Project](#-get-project)
-- [🚀 How to Run](#-how-to-run)
-- [📬 Contact Us](#-contact-us)
-
----
-
 ## 📥 Get Project
 
 This project demonstrates the use of `useReducer` and the React Context API. It's part of the Reactive Accelerator course and aims to solidify your React fundamentals.
